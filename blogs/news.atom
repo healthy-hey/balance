@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.beanstalkhairgrowth.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.beanstalkhairgrowth.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://www.beanstalkhairgrowth.com/blogs/news.atom"/>
+  <title>BeanStalk Hair Growth - News</title>
+  <updated>2015-08-25T01:44:01-04:00</updated>
+  <author>
+    <name>BeanStalk Hair Growth</name>
+  </author>
+  <entry>
+    <id>https://www.beanstalkhairgrowth.com/blogs/news/59116547-first-post</id>
+    <published>2015-08-25T01:44:01-04:00</published>
+    <updated>2015-08-25T01:44:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.beanstalkhairgrowth.com/blogs/news/59116547-first-post"/>
+    <title>First Post</title>
+    <author>
+      <name>Shopify</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>This is your store’s blog. You can use it to talk about new product launches, experiences, tips or other news you want your customers to read about.</p>
+<p>You can check out Shopify’s ecommerce blog for inspiration and advice for your own store and for your store’s blog.</p>
+<p><strong>How do I remove this post?</strong><br>
+Log in to your store’s <a href="/admin">admin area</a> then go to the blog section to delete this post.</p>]]>
+    </content>
+  </entry>
+</feed>
